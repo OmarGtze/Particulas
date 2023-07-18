@@ -1,0 +1,57 @@
+[
+     {
+          "id": "daniel",
+          "destino_x": 75,
+          "origen_x": 32,
+          "destino_y": 89,
+          "origen_y": 41,
+          "velocidad": 99,
+          "red": 0,
+          "green": 100,
+          "blue": 0
+     },
+     {
+          "id": "diego",
+          "destino_x": 75,
+          "origen_x": 34,
+          "destino_y": 67,
+          "origen_y": 12,
+          "velocidad": 21,
+          "red": 100,
+          "green": 0,
+          "blue": 0
+     },
+     {
+          "id": "omar",
+          "destino_x": 12,
+          "origen_x": 75,
+          "destino_y": 43,
+          "origen_y": 12,
+          "velocidad": 85,
+          "red": 100,
+          "green": 0,
+          "blue": 0
+     },
+     {
+          "id": "xochitl",
+          "destino_x": 99,
+          "origen_x": 21,
+          "destino_y": 16,
+          "origen_y": 86,
+          "velocidad": 54,
+          "red": 0,
+          "green": 0,
+          "blue": 100
+     },
+     {
+          "id": "orlando",
+          "destino_x": 87,
+          "origen_x": 12,
+          "destino_y": 54,
+          "origen_y": 11,
+          "velocidad": 65,
+          "red": 0,
+          "green": 100,
+          "blue": 0
+     }
+]
